@@ -1,0 +1,6 @@
+{
+  "name": "Two Friends: Driving Masters Video Studio",
+  "description": "Animate photos into cinematic racing videos with Veo 3.1, featuring the story of two childhood friends Shafin and Nafis who became Driving Masters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
